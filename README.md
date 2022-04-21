@@ -1,7 +1,6 @@
 #1-800-Anatolii
 
 
-
 ### Description :page_with_curl:
 
 This code features a static website page for handyman services using React. 
