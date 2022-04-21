@@ -3,9 +3,7 @@
 
 ### Description :page_with_curl:
 
-This code features a static website page for handyman services using React. 
-
-The project is deployed to [GitHub Pages](https://shopandshop.herokuapp.com/)
+This code features a static website page for handyman services using React. Live demo of the project [here](https://call1800anatolii.netlify.app).
 
 #### Screenshots :camera_flash:
 ![screenshot](./src/images/screenshot.png)
@@ -16,14 +14,14 @@ The project is deployed to [GitHub Pages](https://shopandshop.herokuapp.com/)
 
 #### Resources Used :wrench: 
 
-[Google Fonts Poppins](https://fonts.google.com/?query=poppins)
-[React Icons](https://react-icons.github.io/react-icons/)
-[Flaticon](https://www.flaticon.com/)
-[Swiper React](https://swiperjs.com/react)
-[EmailJS](https://www.emailjs.com/)
-[Pic Editor](https://www5.lunapic.com/editor/)
-[Cartoonize](https://edit.cartoonize.net/)
-[Img Resize](https://resizing.app/)
+- [Google Fonts Poppins](https://fonts.google.com/?query=poppins)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Flaticon](https://www.flaticon.com/)
+- [Swiper React](https://swiperjs.com/react)
+- [EmailJS](https://www.emailjs.com/)
+- [Pic Editor](https://www5.lunapic.com/editor/)
+- [Cartoonize](https://edit.cartoonize.net/)
+- [Img Resize](https://resizing.app/)
 
 #### Installation :electric_plug:
 

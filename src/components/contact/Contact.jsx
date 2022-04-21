@@ -62,7 +62,6 @@ const Contact = () => {
                 </div>
 
                 <form
-
                     ref={form}
                     onSubmit={sendEmail}>
                     <input type="text" name='name' placeholder='Your Full Name' required />
