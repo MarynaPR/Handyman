@@ -8,7 +8,7 @@ function HeaderSocials() {
         <div className='header_socials'>
             {/* <a href="https:linkedin.com" targer="_blank"><BsLinkedin/></a> */}
             {/* <a href="https:github.com" targer="_blank"><BsGithub/></a> */}
-            <a href="https:instagram.com/1800anatolii/" targer="_blank"><AiFillInstagram /></a>
+            <a href="https:instagram.com/1800anatolii" targer="_blank"><AiFillInstagram /></a>
         </div>
     )
 }
