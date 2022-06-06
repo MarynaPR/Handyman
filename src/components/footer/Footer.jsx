@@ -1,8 +1,8 @@
 import React from 'react'
 import './footer.css'
-import { FaFacebookF } from 'react-icons/fa'
+// import { FaFacebookF } from 'react-icons/fa'
 import { FiInstagram } from 'react-icons/fi'
-import { IoLogoTwitter } from 'react-icons/io'
+// import { IoLogoTwitter } from 'react-icons/io'
 
 const footer = () => {
   return (
@@ -19,12 +19,12 @@ const footer = () => {
       </ul>
 
       <div className="footer_socials">
-        <a href=" https://facebook.com"><FaFacebookF /></a>
-        <a href=" https://twitter.com"><IoLogoTwitter /></a>
-        <a href=" https://instagram.com"><FiInstagram /></a>
+        {/* <a href=" https://facebook.com"><FaFacebookF /></a> */}
+        {/* <a href=" https://twitter.com"><IoLogoTwitter /></a> */}
+        <a href="https://www.instagram.com/1800anatolii/"><FiInstagram /></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy; 1800anatolii. All rights reserved</small>
+        <small>&copy; 1800anatolii. All rights reserved 2022</small>
       </div>
     </footer>
   )
